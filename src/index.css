@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: 'Inter', BlinkMacSystemFont, 'Segoe UI', 'Roboto',sans-serif,
+  sans-serif;
+  background-color: #23252C;
+}
+h1, h2, p{
+  color: white;
+}
+
+p{
+  font-weight: 200;
+}
+h1{
+  font-size: 25px;
+  font-weight: 600; 
+}
+h2{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+h3{
+  color: #F3BF99;
+  font-size: 15px;
+}
